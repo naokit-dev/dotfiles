@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customSites</key>
+	<dict>
+		<key>78DB1021-3D97-41E7-9DFA-DFCEE9463B3A</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>gge</string>
+			<key>text</key>
+			<string>Searce Google(eng)</string>
+			<key>url</key>
+			<string>https://www.google.com/search?q={query}&amp;gl=us&amp;hl=en&amp;gws_rd=cr&amp;pws=0</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>C500888A-3FD3-4524-A64B-3E99F563D8D2</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>st</string>
+			<key>text</key>
+			<string>Search Stack Overflow</string>
+			<key>url</key>
+			<string>https://stackoverflow.com/search?q={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
